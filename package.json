@@ -9,9 +9,10 @@
     "test": "yarn jest -- --watch"
   },
   "dependencies": {
+    "isomorphic-fetch": "^2.2.1",
     "jest": "^19.0.2"
   },
   "jest": {
-    "testRegex": "/.*\\.(js|jsx)$"
+    "testRegex": "./src/.*\\.(js|jsx)$"
   }
 }
