@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:blueberryapps/react-lessons.git",
   "author": "Ondrej Bartas <ondrej@bartas.cz>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest": "^19.0.2"
+  }
 }
