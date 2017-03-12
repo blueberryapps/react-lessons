@@ -5,6 +5,9 @@
   "repository": "git@github.com:blueberryapps/react-lessons.git",
   "author": "Ondrej Bartas <ondrej@bartas.cz>",
   "license": "MIT",
+  "scripts": {
+    "test": "yarn jest -- --watch"
+  },
   "dependencies": {
     "jest": "^19.0.2"
   }
