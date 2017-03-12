@@ -13,6 +13,8 @@
     "jest": "^19.0.2"
   },
   "jest": {
-    "testRegex": "./src/1_es6/.*\\.js$"
+    "testRegex": "./src/1_es6/.*\\.js$",
+    "testPathIgnorePatterns": ["./src/1_es6/lib/", "node_modules"]
+
   }
 }
