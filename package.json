@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "jest": "^19.0.2"
+  },
+  "jest": {
+    "testRegex": "/.*\\.(js|jsx)$"
   }
 }
