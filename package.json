@@ -9,6 +9,8 @@
     "test": "yarn jest -- --watch"
   },
   "dependencies": {
+    "babel-core": "^6.24.0",
+    "babel-plugin-transform-object-rest-spread": "^6.23.0",
     "isomorphic-fetch": "^2.2.1",
     "jest": "^19.0.2"
   },
